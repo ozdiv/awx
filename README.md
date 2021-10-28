@@ -29,7 +29,9 @@ Latest AWX can only run on Kubernetes. k3s.io is light version of kubernetes.
 
 ### Install k3s by running the commands below:
 Install container-selinux and selinux-policy-base
+
 ```yum install -y container-selinux selinux-policy-base```
+
 ```yum install -y https://rpm.rancher.io/k3s/stable/common/centos/8/noarch/k3s-selinux-0.3-0.el8.noarch.rpm```
 
 ```curl -sfL https://get.k3s.io | sudo bash -```
