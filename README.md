@@ -34,6 +34,8 @@ Install container-selinux and selinux-policy-base
 
 ```yum install -y https://rpm.rancher.io/k3s/stable/common/centos/8/noarch/k3s-selinux-0.3-0.el8.noarch.rpm```
 
+And now you should be able to install k3s.
+
 ```curl -sfL https://get.k3s.io | sudo bash -```
 
 ### As root user do a validation on use of kubectl Kubernetes management tool:
