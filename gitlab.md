@@ -20,3 +20,5 @@ Install portainer.
 Once portainer is installed, navigate to http://10.0.19.237:9000/  or replace ip with your server, created user and log into portainer.
 
 Click on local and find on the left-hand side App Templates. Click on 'App Templates' and click on 'GitLab Ce'. Click 'deploy the container'.
+
+It takes a long time for GitLab container to be created, so be patient - takes 10-20 minutes at least.
