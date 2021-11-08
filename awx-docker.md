@@ -29,3 +29,8 @@ Only for RHEL7 if the error comes up - error while loading shared libraries...
 Check version
 
 ```ansible --version```
+
+### Install node and npm
+
+```curl -sL https://rpm.nodesource.com/setup_14.x | sudo bash -```
+```sudo yum install -y nodejs npm```
