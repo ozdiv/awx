@@ -43,3 +43,13 @@ Check version
 Check your docker-compose version first - ```docker-compose --version```
 
 ```sudo pip3 install docker-compose==1.29.0```
+
+```sudo yum install unzip```
+
+```wget https://github.com/ansible/awx/archive/17.1.0.zip```
+
+Secret key is:
+
+```Q0kpzxtu2I1LlP2oSUYhWIJqlDSzEo```
+
+
