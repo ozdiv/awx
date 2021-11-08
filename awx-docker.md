@@ -15,8 +15,9 @@
 
 Make an alias if needed
 
-```alias docker-compose="/usr/local/bin/docker-compose"
+```alias docker-compose="/usr/local/bin/docker-compose"```
 
 Only for RHEL7 if the error comes up - error while loading shared libraries...
+
 
 ```sudo mount /tmp -o remount,exec```
