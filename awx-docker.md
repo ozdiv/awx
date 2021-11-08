@@ -21,3 +21,11 @@ Only for RHEL7 if the error comes up - error while loading shared libraries...
 
 
 ```sudo mount /tmp -o remount,exec```
+
+### Install Ansible
+
+```sudo install -y ansible```
+
+Check version
+
+```ansible --version```
