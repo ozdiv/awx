@@ -35,3 +35,11 @@ Check version
 ```curl -sL https://rpm.nodesource.com/setup_14.x | sudo bash -```
 ```sudo yum install -y nodejs npm```
 ```sudo npm install npm --global```
+
+### Install and Setup Ansible AWX
+
+```sudo apt install -y python3-pip git pwgen```
+
+Check your docker-compose version first - ```docker-compose --version```
+
+```sudo pip3 install docker-compose==1.29.0```
